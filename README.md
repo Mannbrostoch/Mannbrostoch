@@ -8,6 +8,7 @@
 </p>
 ---
 ### 🧠 Current State (Unfiltered Edition)
+
 ```ts
 const status = {
   focus: "Building features... that become bugs 🐛→🚀",
