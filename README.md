@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center">😂 My Daily Dev Life</h2>
 
-<!--
-**Mannbrostoch/Mannbrostoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `console.log("Still debugging my life...");`
+- `It works on my machine 🤷‍♂️`
+- `Fixing bugs… accidentally creating new ones 🐛`
+- `404: Motivation not found`
+- `Committed to Git, not to people 😌`
+- `I don’t always test my code, but when I do… I do it in production 😎`
+- `Ctrl + C my problems, Ctrl + V solutions`
+- `if (life === hard) { coffee++; }`
+- `while(alive) { eat(); code(); sleep(); repeat(); }`
+- `System.out.println("Why is this not working???");`
