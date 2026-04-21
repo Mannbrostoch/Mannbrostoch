@@ -1,18 +1,19 @@
 <!-- Minimal Header -->
-<h2 align="center">💻 Developer Status</h2>
+<h2 align="center">💻 Developer Status: CHAOS MODE ACTIVATED 🔥</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&vCenter=true&width=500&lines=Debugging+life...;It+works+on+my+machine;Still+optimizing+myself" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6B6B&center=true&vCenter=true&width=520&lines=Debugging+life+like+a+pro...;It+works+on+my+machine...+probably;Still+optimizing+myself+(send+help);99%+coffee+%2C+1%25+existential+crisis" />
 </p>
 
 ---
-
-### 🧠 Current State
+### 🧠 Current State (Unfiltered Edition)
 
 ```ts
 const status = {
-  focus: "Building & fixing",
-  bugs: "Sometimes features",
-  energy: "Powered by coffee ☕",
-  mood: "Optimistic… mostly",
+  focus: "Building features... that become bugs 🐛→🚀",
+  bugs: "Sometimes features... mostly chaos ✨",
+  energy: "Powered by coffee ☕💉 (and pure denial)",
+  mood: "Optimistic… mostly 😎 (until production)",
+  reality: "It works on my machine™ 😂",
+  secretSkill: "Turning coffee into code... and bugs into 'features' 🧪"
 };
